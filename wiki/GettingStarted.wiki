@@ -7,7 +7,7 @@
 
 Flayer is a Valgrind plugin which traces (tainted) input through a program. In addition, it allows for conditional branches and function calls on the way to be skipped or altered.
 
-For more detail, check out the [http://www.google.com/search?hl=en&lr=&q=%22Flayer%3A+Exposing+Application+Internals%22+Drewry+Ormandy paper].
+For more detail, check out the [http://www.google.com/search?hl=en&lr=&q=%22Flayer%3A+Exposing+Application+Internals%22 paper].
 
 == MKF ==
 
@@ -89,4 +89,5 @@ In the above example, it is critical to note that the branch behavior value was 
 == Other components ===
 
 More documentation for using these tools and the included Python library and interactive shell will be coming in the future.  User submissions are welcome! 
+ 
  
